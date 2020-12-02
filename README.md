@@ -18,6 +18,7 @@ Level Backgrounds done in Krita.
 Player made in Krita.
 Music made in Soundtrap.
 Sound Effects made in Leshy.
+
 # Future Development
 None
 
