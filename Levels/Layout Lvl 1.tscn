@@ -470,7 +470,11 @@ position = Vector2( 1005.21, 555.228 )
 rotation = 0.13439
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
+<<<<<<< Updated upstream:Levels/Layout Lvl 1.tscn
 frame = 15
+=======
+frame = 18
+>>>>>>> Stashed changes:Layout Lvl 1.tscn
 playing = true
 
 [node name="AnimatedSprite2" type="AnimatedSprite" parent="."]
@@ -478,7 +482,11 @@ position = Vector2( 935.286, 552.049 )
 rotation = 0.13439
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
+<<<<<<< Updated upstream:Levels/Layout Lvl 1.tscn
 frame = 14
+=======
+frame = 17
+>>>>>>> Stashed changes:Layout Lvl 1.tscn
 playing = true
 
 [node name="AnimatedSprite3" type="AnimatedSprite" parent="."]
@@ -486,7 +494,11 @@ position = Vector2( 883.372, 536.157 )
 rotation = -0.136136
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
+<<<<<<< Updated upstream:Levels/Layout Lvl 1.tscn
 frame = 14
+=======
+frame = 17
+>>>>>>> Stashed changes:Layout Lvl 1.tscn
 playing = true
 
 [node name="AnimatedSprite4" type="AnimatedSprite" parent="."]
@@ -494,7 +506,11 @@ position = Vector2( 975.545, 532.979 )
 rotation = 0.13439
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
+<<<<<<< Updated upstream:Levels/Layout Lvl 1.tscn
 frame = 13
+=======
+frame = 16
+>>>>>>> Stashed changes:Layout Lvl 1.tscn
 playing = true
 
 [node name="Door" type="AnimatedSprite" parent="."]
