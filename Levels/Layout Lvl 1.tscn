@@ -470,7 +470,7 @@ position = Vector2( 1005.21, 555.228 )
 rotation = 0.13439
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
-frame = 14
+frame = 5
 playing = true
 
 [node name="AnimatedSprite2" type="AnimatedSprite" parent="."]
@@ -478,7 +478,7 @@ position = Vector2( 935.286, 552.049 )
 rotation = 0.13439
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
-frame = 13
+frame = 4
 playing = true
 
 [node name="AnimatedSprite3" type="AnimatedSprite" parent="."]
@@ -486,7 +486,7 @@ position = Vector2( 883.372, 536.157 )
 rotation = -0.136136
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
-frame = 13
+frame = 4
 playing = true
 
 [node name="AnimatedSprite4" type="AnimatedSprite" parent="."]
@@ -494,14 +494,14 @@ position = Vector2( 975.545, 532.979 )
 rotation = 0.13439
 scale = Vector2( 0.340362, 0.535467 )
 frames = SubResource( 39 )
-frame = 12
+frame = 3
 playing = true
 
 [node name="Door" type="AnimatedSprite" parent="."]
 position = Vector2( 22.6087, 28.2969 )
 scale = Vector2( 0.774323, 0.696357 )
 frames = SubResource( 40 )
-frame = 1
+frame = 6
 playing = true
 
 [node name="Player_Container" type="Node2D" parent="."]
