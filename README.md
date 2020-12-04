@@ -1,26 +1,34 @@
 # Metal-Shoes-Final-Project
-December 3, 2020
+ MSCH-C220, December 3, 2020
 
-2D platformer made in Godot
+## Theme
+We interpreted the theme as being stuck in a crumbling lab trying to get out as fast as possible
 
-# Implementation
+## Gameplay
+Get out of the lab as fast as possible
+Use WASD to move 
+
+## Impediments
+We all had issues getting GitHub to work for all of us.  There were also issues with the animation sprite sheet, getting levels to connect, and some of the display things disappearing. 
+
+## Implementation
 Created in Godot 3.2.2
 
-Arithon- Coding
-Elliot- Audio
-Trey- Level Design
-Cierra- Art
-
-# References
 Main Menu Image: https://www.needpix.com/photo/download/1153477/shelter-underground-bunker-the-door-free-pictures-free-photos-free-images-royalty-free-free-illustrations
 
-Level Backgrounds done in Krita.
+Tile map from Kenny.nl: https://kenney.nl/assets/platformer-pack-industrial 
+
 Player made in Krita.
 Music made in Soundtrap.
 Sound Effects made in Leshy.
 
-# Future Development
+## References
+
+## Future Development
 None
 
 # Created by
-Arithon, Elliot, Trey, Cierra
+Arithon- Coding, menus, and animation 
+Trey- Level Design, cosmetics, and backgrounds
+Elliot- Sound effects, music, and GitHub control
+Cierra- art, README, .gitignore
